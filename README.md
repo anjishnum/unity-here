@@ -1,4 +1,3 @@
-# unity-here
+# Avoid those polygons!
 
-<h3>avoid-polygons</h3>
-This project consists of a player (rectangular), avoid the obstacles (polygons) on its path to victory.
+This project consists of a player (a rectangle), who needs to avoid the obstacles (polygons) on its path to victory.
